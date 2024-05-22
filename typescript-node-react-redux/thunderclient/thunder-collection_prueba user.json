@@ -1,0 +1,57 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "prueba user",
+    "collectionId": "4dc12505-dd01-4661-a5ff-b51890ef7861",
+    "dateExported": "2024-05-21T19:38:46.111Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "a96be1c9-cf65-4029-bb37-09c966c52788",
+            "colId": "4dc12505-dd01-4661-a5ff-b51890ef7861",
+            "containerId": "",
+            "name": "get",
+            "url": "http://localhost:3001/api/user",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-05-17T20:55:18.428Z",
+            "modified": "2024-05-17T20:55:47.079Z",
+            "headers": []
+        },
+        {
+            "_id": "9a014250-1adf-46da-92af-b0a14b756510",
+            "colId": "4dc12505-dd01-4661-a5ff-b51890ef7861",
+            "containerId": "",
+            "name": "post",
+            "url": "http://localhost:3001/api/user",
+            "method": "POST",
+            "sortNum": 20000,
+            "created": "2024-05-17T20:56:02.505Z",
+            "modified": "2024-05-19T14:54:14.215Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \n  \"name\":\"Ariel\",\n  \"lastName\":\"Zarate\"\n  \n}",
+                "form": []
+            }
+        },
+        {
+            "_id": "550c3eff-4ed2-4b21-95d6-6ecf19b8ff92",
+            "colId": "4dc12505-dd01-4661-a5ff-b51890ef7861",
+            "containerId": "",
+            "name": "post  array",
+            "url": "http://localhost:3001/api/user",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2024-05-20T14:30:49.070Z",
+            "modified": "2024-05-20T14:37:38.249Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "[\n  {\n    \"name\": \"juan\",\n    \"lastName\": \"perez\"\n  },\n  {\n    \"name\": \"johana\",\n    \"lastName\": \"marquez\"\n  }\n  ,\n  {\n    \"name\":\"jhon\",\n    \"lastName\":\"Nicolson\"\n  }\n  ,\n  {\n    \"name\":\"Ariel\",\n    \"lastName\":\"Zarate\"\n    \n  }\n]\n",
+                "form": []
+            }
+        }
+    ],
+    "ref": "UGxIOcnJzoLjiuKunS7rG6YcY3_CtLyXCLdnOV2tCBPzuHxZCLP_46VI987q-JClc2azhX9EPIbtLAx0L14FvQ"
+}

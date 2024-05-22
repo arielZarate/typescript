@@ -1,0 +1,16 @@
+{
+  "name": "wks-typescript",
+  "version": "1.0.0",
+  "description": "un proyecto para usar nodejs y react con typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"npm run dev --prefix api\" \"npm start --prefix client\"",
+    "dev": "cd api && npm run dev",
+    "frontend": "cd client && npm run start"
+  },
+  "author": "Ariel Zarate",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
