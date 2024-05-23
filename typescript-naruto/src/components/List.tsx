@@ -16,7 +16,7 @@ const List: React.FC<NinjasProps> = ({ ninjas }) => {
       if (ninjas.length > 0) {
         setLoading(false);
       }
-    }, 800);
+    }, 400);
   }, [ninjas]);
 
   return (
