@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Proyecto Naruto con Typescript
+
+Este es un proyecto poniendo en practica typescript ,se ha creado un json donde se consume la informacion para listar y mostrar el detalle
+
+- Esta creado con`nextjs` , `typescript` , `taildwindcss`
+
+![fachada](./src/assets//images/fachada1.png)
 
 ## Getting Started
 
@@ -20,17 +26,54 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## React
 
-To learn more about Next.js, take a look at the following resources:
+Tenemos la folder components donde tenemos la siguente estructura
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+├── client/ # Carpeta para el frontend
+│   ├── public/ # Archivos públicos como el index.html
+│   ├── src/ # Código fuente del frontend
+│   │   ├── components/ # Componentes de React
+│   │   │   ├── Card.tsx # Componente Card
+│   │   │   ├── List.tsx # Componente List
+│   │   │   └── NavBar.tsx # Componente NavBar
+│   │   ├── interfaces/ # Interfaces TypeScript
+│   │   │   └── Ninja.ts # Definición de la interfaz Ninja
+│   │   ├── json/ # Archivos JSON de datos
+│   │   │   └── ninjas.json # Datos de ninjas
+│   │   ├── App.tsx # Componente principal de React
+│   │   └── index.tsx # Punto de entrada de la aplicación React
+│   ├── package.json # Dependencias del frontend
+│   └── ...
+│
+├── .gitignore # Archivos y carpetas ignorados por Git
+└── README.md # Documentación del proyecto
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```
+
+Se creo una sola ruta mas en src/app/shippuden/[id] para mostrar el ninjaDetail
+
+### Interfaces
+
+Se maneja los tipos de los campos
+
+```javascript
+export type Ninja = {
+  id?: number,
+  nombre: string,
+  avatar?: string,
+  edad: number,
+  aldea: string,
+  clan: string,
+  estado: string,
+  habilidades: Array<string>,
+  historia: string,
+};
+
+export type Ninjas = Ninja[];
+```
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- usare Vercel
