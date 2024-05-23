@@ -1,0 +1,19 @@
+{
+  "ninjas": [
+    {
+      "id": 1,
+      "nombre": "Naruto uzuumaki",
+      "avatar": "https://mifotodeperfil.com/_next/image?url=https%3A%2F%2Fmfdp-resources.s3.us-east-2.amazonaws.com%2Fstyles-images%2FAnime%2BNinja.webp&w=1080&q=75",
+      "edad": 24,
+      "aldea": "konoha",
+      "habiliadades": [
+        "Fuerza Vital y Control del Chakra",
+        "Taijutsu",
+        "Ninjutsu",
+        "Fūinjutsu",
+        "Senjutsu"
+      ],
+      "historia": "Naruto Uzumaki, un joven ninja huérfano, busca el reconocimiento y el respeto de su aldea, Konoha, mientras persigue su sueño de convertirse en el Hokage. A través de múltiples desafíos, incluyendo enfrentamientos con enemigos poderosos y la superación de su propia soledad, Naruto demuestra su valía, fortaleza y determinación para proteger a sus seres queridos y a la aldea que ama. Su viaje culmina en el logro de su objetivo, convirtiéndose en el Séptimo Hokage y encontrando la paz y la felicidad junto a sus amigos y familia."
+    }
+  ]
+}

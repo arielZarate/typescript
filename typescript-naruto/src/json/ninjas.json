@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "nombre": "Naruto Uzumaki",
+    "avatar": "https://mifotodeperfil.com/_next/image?url=https%3A%2F%2Fmfdp-resources.s3.us-east-2.amazonaws.com%2Fstyles-images%2FAnime%2BNinja.webp&w=1080&q=75",
+    "edad": 24,
+    "aldea": "Konoha",
+    "clan": "Uzumaki",
+    "estado": "Vivo",
+    "habilidades": [
+      "Fuerza Vital y Control del Chakra",
+      "Taijutsu",
+      "Ninjutsu",
+      "Fūinjutsu",
+      "Senjutsu"
+    ],
+    "historia": "Naruto Uzumaki, un joven ninja huérfano, busca el reconocimiento y el respeto de su aldea, Konoha, mientras persigue su sueño de convertirse en el Hokage. A través de múltiples desafíos, incluyendo enfrentamientos con enemigos poderosos y la superación de su propia soledad, Naruto demuestra su valía, fortaleza y determinación para proteger a sus seres queridos y a la aldea que ama. Su viaje culmina en el logro de su objetivo, convirtiéndose en el Séptimo Hokage y encontrando la paz y la felicidad junto a sus amigos y familia."
+  },
+  {
+    "id": 2,
+    "nombre": "Sasuke Uchiha",
+    "avatar": "https://i.pinimg.com/474x/f9/07/af/f907af8d969da298628688da5b8d61a4.jpg",
+    "edad": 24,
+    "aldea": "Konoha",
+    "clan": "Uchiha",
+    "estado": "Vivo",
+    "habilidades": ["Sharingan", "Susanoo", "Kenjutsu", "Genjutsu", "Rinnegan"],
+    "historia": "Sasuke Uchiha es un ninja del clan Uchiha, marcado por la tragedia de su pasado y la búsqueda de venganza contra su hermano, Itachi Uchiha. A lo largo de su vida, Sasuke enfrenta numerosos desafíos y oscila entre la luz y la oscuridad en su camino hacia la redención y la comprensión de su verdadero propósito."
+  },
+  {
+    "id": 3,
+    "nombre": "Sakura Haruno",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR964zBzxwt4hA8lfKjmnhvbm5EEApsJ2-vdBRhzXxHPw&s",
+    "edad": 24,
+    "aldea": "Konoha",
+    "clan": "Haruno",
+    "estado": "Vivo",
+    "habilidades": [
+      "Chakra Control",
+      "Taijutsu",
+      "Ninjutsu Médico",
+      "Byakugō no In"
+    ],
+    "historia": "Sakura Haruno es una ninja de Konoha, conocida por su inteligencia y habilidades médicas. Inicialmente, Sakura lucha con su falta de confianza, pero a lo largo de la serie, demuestra su valía como una ninja capaz y fuerte, dispuesta a proteger a sus amigos con todo lo que tiene."
+  },
+  {
+    "id": 4,
+    "nombre": "Kakashi Hatake",
+    "avatar": "https://i.pinimg.com/736x/1a/5c/d6/1a5cd671f0e9cc3e829e4c117766d3e7.jpg",
+    "edad": 31,
+    "aldea": "Konoha",
+    "clan": "Hatake",
+    "estado": "Vivo",
+    "habilidades": [
+      "Sharingan",
+      "Chidori",
+      "Kamui",
+      "Raiton",
+      "Mangekyou Sharingan"
+    ],
+    "historia": "Kakashi Hatake, también conocido como 'El Ninja Copia', es un experimentado ninja de Konoha y el antiguo líder del Equipo 7. Reconocido por su habilidad en el Ninjutsu y su filosofía ninja, Kakashi es un mentor querido y respetado para sus alumnos, Naruto, Sasuke y Sakura."
+  },
+  {
+    "id": 5,
+    "nombre": "Gaara",
+    "avatar": "https://i.pinimg.com/originals/aa/0a/53/aa0a53f325eb87176bce69f1167bf647.jpg",
+    "edad": 25,
+    "aldea": "Sunagakure",
+    "clan": "Akasuna",
+    "estado": "Vivo",
+    "habilidades": [
+      "Control de la Arena",
+      "Shukaku (Bijū)",
+      "Jiton (Estilo Magnetico)",
+      "Raiton",
+      "Fūton"
+    ],
+    "historia": "Gaara, el Kazekage de la aldea oculta de la Arena, fue inicialmente un antagonista debido a la influencia del Bijū Shukaku y su traumático pasado. Sin embargo, con el tiempo, Gaara se redime y se convierte en un líder sabio y compasivo, dedicado a proteger a su aldea y a su gente."
+  },
+  {
+    "id": 6,
+    "nombre": "Rock Lee",
+    "avatar": "https://i.pinimg.com/736x/fb/53/73/fb5373873726dc1040bca0b7cec61035.jpg",
+    "edad": 24,
+    "aldea": "Konoha",
+    "clan": "lee",
+    "estado": "vivo",
+    "habilidades": [
+      "Taijutsu",
+      "Los Ocho Puertas Celestiales",
+      "Konoha Senpuu"
+    ],
+    "historia": "Rock Lee es un ninja de Konoha conocido por su dedicación al entrenamiento físico y su incapacidad para usar el chakra para ninjutsu o genjutsu. A pesar de sus limitaciones, Lee se convierte en un formidable maestro de Taijutsu y un modelo a seguir para la perseverancia y la determinación."
+  },
+  {
+    "id": 7,
+    "nombre": "Neji Hyuga",
+    "avatar": "https://i.pinimg.com/736x/d9/00/67/d900679feb5c3e45e44b6d3340c95529.jpg",
+    "edad": 25,
+    "aldea": "Konoha",
+    "clan": "Hyuga",
+    "estado": "Fallecido",
+    "habilidades": ["Byakugan", "Gentle Fist", "Ocho Trigramas"],
+    "historia": "Neji Hyuga era miembro del clan Hyuga, conocido por su habilidad en el Byakugan y su enfoque en el Taijutsu. A lo largo de su vida, Neji lucha contra su destino predeterminado y busca la libertad y el reconocimiento fuera de las restricciones impuestas por su linaje."
+  },
+  {
+    "id": 8,
+    "nombre": "Jiraiya",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmYG8lJpSjEFiHb2CoF6-blwxu_Lm0DiRM-YFm4b3jBQ&s",
+    "edad": 54,
+    "aldea": "Konoha",
+    "clan": "Kyushu",
+    "estado": "fallecido",
+    "habilidades": ["Senjutsu", "Toad Summoning", "Rasengan"],
+    "historia": "Jiraiya, uno de los legendarios Sannin, es conocido como 'El Sabio de los Sapos' debido a su maestría en el Senjutsu. A lo largo de su vida, Jiraiya lucha por la paz y la justicia,"
+  },
+  {
+    "id": 9,
+    "nombre": "Tsunade Senju",
+    "avatar": "https://i.pinimg.com/originals/85/f3/68/85f368b509222723b9a69ca92a94da12.png",
+    "edad": 54,
+    "aldea": "Konoha",
+    "clan": "Senju",
+    "estado": "vivo",
+    "habilidades": [
+      "Ninjutsu Médico",
+      "Fuerza Sobrehumana",
+      "Byakugō no In",
+      "Mitotic Regeneration"
+    ],
+    "historia": "Tsunade Senju, una de los legendarios Sannin y la Quinta Hokage de Konoha, es conocida por su excepcional fuerza física y sus habilidades médicas. A lo largo de su vida, Tsunade enfrenta desafíos personales y profesionales, demostrando su valía como una líder fuerte y compasiva."
+  },
+  {
+    "id": 10,
+    "nombre": "Itachi Uchiha",
+    "avatar": "https://i.pinimg.com/originals/71/f9/94/71f9940ccb385dcdf345113d591297f1.jpg",
+    "edad": 21,
+    "aldea": "Konoha",
+    "clan": "Uchiha",
+    "estado": "Fallecido",
+    "habilidades": ["Sharingan", "Amaterasu", "Tsukuyomi", "Susanoo"],
+    "historia": "Itachi Uchiha es un ninja del clan Uchiha, conocido por su habilidad en el uso del Sharingan y su papel en la tragedia de su clan. A lo largo de su vida, Itachi enfrenta decisiones difíciles y sacrifica su propia felicidad por el bien de Konoha y su hermano menor, Sasuke."
+  },
+  {
+    "id": 11,
+    "nombre": "Minato Namikaze",
+    "avatar": "https://i.pinimg.com/originals/11/45/7d/11457dbfa2d927a6e35bf86f39bf5398.jpg",
+    "edad": 23,
+    "aldea": "Konoha",
+    "clan": "Namikaze",
+    "estado": "Fallecido",
+    "habilidades": ["Hiraishin no Jutsu", "Rasengan", "Fuuton"],
+    "historia": "Minato Namikaze, conocido como el Cuarto Hokage de Konoha, es recordado como un héroe por su valentía y sus habilidades como ninja. Su legado perdura a través de su hijo, Naruto Uzumaki, y su papel en la protección de la aldea de Konoha."
+  },
+  {
+    "id": 12,
+    "nombre": "Kushina Uzumaki",
+    "avatar": "https://i.pinimg.com/550x/3d/71/2e/3d712e8e366a122cbd7888e68398e6b2.jpg",
+    "edad": 22,
+    "aldea": "Konoha",
+    "clan": "Uzumaki",
+    "estado": "Fallecida",
+    "habilidades": ["Uzumaki Clan Techniques", "Chakra Chains", "Fuinjutsu"],
+    "historia": "Kushina Uzumaki, la madre de Naruto Uzumaki, era una poderosa kunoichi del clan Uzumaki. Aunque su vida fue corta, Kushina dejó un impacto duradero en Konoha y en su hijo, Naruto, con su valentía y su amor inquebrantable."
+  },
+  {
+    "id": 13,
+    "nombre": "Hinata Hyuga",
+    "avatar": "https://i.pinimg.com/564x/20/42/b0/2042b0ded14cdeedf131a8b00fcc8686.jpg",
+    "edad": 24,
+    "aldea": "Konoha",
+    "clan": "Hyuga",
+    "estado": "Vivo",
+    "habilidades": [
+      "Byakugan",
+      "Jyūken",
+      "Protective Eight Trigrams Sixty-Four Palms"
+    ],
+    "historia": "Hinata Hyuga es una ninja del clan Hyuga, conocida por su gentileza y su determinación para superar sus limitaciones. A lo largo de su vida, Hinata demuestra su valentía y fortaleza, convirtiéndose en una ninja poderosa y una inspiración para muchos."
+  },
+  {
+    "id": 14,
+    "nombre": "Shikamaru Nara",
+    "avatar": "https://i.pinimg.com/474x/f8/6f/be/f86fbede912cd04383439bebff6ab38f.jpg",
+    "edad": 24,
+    "aldea": "Konoha",
+    "clan": "Nara",
+    "estado": "Vivo",
+    "habilidades": [
+      "Manipulación de las Sombras",
+      "Inteligencia",
+      "Planificación Estratégica"
+    ],
+    "historia": "Shikamaru Nara es un ninja de Konoha conocido por su inteligencia y su habilidad para pensar en estrategias complejas. A lo largo de su vida, Shikamaru enfrenta desafíos tanto en el campo de batalla como en su vida personal, demostrando su valía como un líder sabio y capaz."
+  },
+  {
+    "id": 15,
+    "nombre": "Ino Yamanaka",
+    "avatar": "https://pm1.aminoapps.com/6830/1606717436b3bc898937ffdb87e0126dfcc9d2d0v2_00.jpg",
+    "edad": 24,
+    "aldea": "Konoha",
+    "clan": "Yamanaka",
+    "estado": "Vivo",
+    "habilidades": [
+      "Técnica del Cambio de Cuerpo",
+      "Ninjutsu Médico",
+      "Mind Transfer Jutsu"
+    ],
+    "historia": "Ino Yamanaka es una ninja de Konoha conocida por su habilidad en el Ninjutsu y su amistad con Sakura Haruno. A lo largo de su vida, Ino crece como una kunoichi fuerte y decidida, dispuesta a proteger a sus seres queridos y a su aldea con todo lo que tiene."
+  },
+  {
+    "id": 16,
+    "nombre": "Choji Akimichi",
+    "avatar": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7f601998-16d5-46d0-b74d-4b70b78663f9/d12xtld-0a825694-6dd6-4c6f-a605-e9eddcfd9047.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdmNjAxOTk4LTE2ZDUtNDZkMC1iNzRkLTRiNzBiNzg2NjNmOVwvZDEyeHRsZC0wYTgyNTY5NC02ZGQ2LTRjNmYtYTYwNS1lOWVkZGNmZDkwNDcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gN9MlAdMWXC5iAeDp4UeYIf9MZ3PXgThd1OYQ9UBvpk",
+    "edad": 24,
+    "aldea": "Konoha",
+    "clan": "Akimichi",
+    "estado": "Vivo",
+    "habilidades": [
+      "Técnica de la Píldora de las Mariposas",
+      "Expansion Jutsu",
+      "Partial Multi-Size Technique"
+    ],
+    "historia": "Choji Akimichi es un ninja de Konoha conocido por su amor por la comida y su lealtad hacia sus amigos. A lo largo de su vida, Choji supera sus inseguridades y se convierte en un guerrero valiente y poderoso, dispuesto a defender a sus seres queridos con su vida."
+  },
+
+  {
+    "id": 17,
+    "nombre": "Kiba Inuzuka",
+    "avatar": "https://i.pinimg.com/originals/3c/4a/85/3c4a850a30903a70385c911cfca650a2.jpg",
+    "edad": 24,
+    "aldea": "Konoha",
+    "clan": "Inuzuka",
+    "estado": "Vivo",
+
+    "habilidades": [
+      "Dōjutsu",
+      "Técnica del Hombre-Bestia",
+      "Fang Passing Fang"
+    ],
+    "historia": "Kiba Inuzuka es un ninja de Konoha conocido por su conexión con su compañero canino, Akamaru, y su habilidad en el Ninjutsu de tipo Bestia. A lo largo de su vida, Kiba demuestra su valía como un feroz guerrero y un amigo leal, dispuesto a proteger a sus seres queridos con todo lo que tiene."
+  },
+  {
+    "id": 18,
+    "nombre": "Shino Aburame",
+    "avatar": "https://i.pinimg.com/originals/88/0e/e8/880ee8412c2a711e6f9ea65e7b7c9b49.jpg",
+    "edad": 24,
+    "aldea": "Konoha",
+    "clan": "Aburame",
+    "estado": "Vivo",
+    "habilidades": [
+      "Kikaichū",
+      "Kikai Mushi no Jutsu",
+      "Parasitic Destruction Insect Technique"
+    ],
+    "historia": "Shino Aburame es un ninja de Konoha conocido por su conexión con los insectos y su habilidad en el Ninjutsu de tipo Insecto. A lo largo de su vida, Shino demuestra su valía como un ninja tranquilo y reservado, dispuesto a proteger a su aldea con sus habilidades únicas."
+  },
+  {
+    "id": 19,
+    "nombre": "Tenten",
+    "avatar": "https://i.pinimg.com/564x/12/3d/d7/123dd736c850983e6eaa916c8dd8d390.jpg",
+    "edad": 24,
+    "aldea": "Konoha",
+    "clan": "Hyuga",
+    "estado": "Viva",
+    "habilidades": ["Técnicas de Armamento", "Manipulación de Armas"],
+    "historia": "Tenten es una ninja de Konoha conocida por su habilidad en el manejo de armas y su dedicación al entrenamiento. A lo largo de su vida, Tenten demuestra su valía como una guerrera hábil y una amiga leal, dispuesta a luchar por lo que cree y proteger a sus seres queridos."
+  },
+  {
+    "id": 20,
+    "nombre": "Might Guy",
+    "avatar": "https://i.pinimg.com/736x/7e/b0/c8/7eb0c8acd354971777d2ce0b84a7ba0b.jpg",
+    "edad": 31,
+    "aldea": "Konoha",
+    "clan": "Hyuga",
+    "estado": "Vivo",
+    "habilidades": ["Eight Inner Gates", "Taijutsu", "Dynamic Entry"],
+    "historia": "Might Guy, conocido como 'El Ninja de la Fuerza', es un ninja de Konoha conocido por su devoción al Taijutsu y su enseñanza a su alumno, Rock Lee. A lo largo de su vida, Guy demuestra su valía como un guerrero poderoso y un mentor querido, dispuesto a darlo todo por sus amigos y su aldea."
+  },
+  {
+    "id": 21,
+    "nombre": "Asuma Sarutobi",
+    "avatar": "https://criticalhits.com.br/wp-content/uploads/2020/10/andre-franco-asuma-sarutobi-francofrito-910x1137.jpg",
+    "edad": 27,
+    "aldea": "Konoha",
+    "clan": "Sarutobi",
+    "estado": "Fallecido",
+    "habilidades": ["Chakra Blades", "Ninjutsu de Viento", "Elemento Fuego"],
+    "historia": "Asuma Sarutobi era un ninja de Konoha y el hijo del Tercer Hokage, Hiruzen Sarutobi. Asuma era conocido por su habilidad en el uso de las cuchillas de chakra y su papel como líder del Equipo 10. A lo largo de su vida, Asuma lucha por la paz y la protección de su aldea, dejando un impacto duradero en sus seres queridos y en Konoha."
+  },
+  {
+    "id": 22,
+    "nombre": "Hiruzen Sarutobi",
+    "avatar": "https://i.pinimg.com/236x/86/2b/84/862b8446f39533bbbab46b813be81356.jpg",
+    "edad": 87,
+    "aldea": "Konoha",
+    "clan": "Sarutobi",
+    "estado": "Fallecido",
+    "habilidades": [
+      "Katon",
+      "Doton",
+      "Fuuton",
+      "Elemento Yin-Yang",
+      "Monkey Summoning"
+    ],
+    "historia": "Hiruzen Sarutobi, también conocido como el Tercer Hokage de Konoha, fue un líder sabio y respetado. A lo largo de su vida, Hiruzen luchó por la protección de su aldea y el bienestar de su gente, dejando un legado duradero como uno de los Hokages más queridos de Konoha."
+  },
+  {
+    "id": 23,
+    "nombre": "Danzo Shimura",
+    "avatar": "https://i.pinimg.com/736x/66/55/3a/66553a3cf18098864e66b8c3250afc74.jpg",
+    "edad": 58,
+    "aldea": "Konoha",
+    "clan": "Shimura",
+    "estado": "Fallecido",
+    "habilidades": ["Sharingan", "Izuna", "Katon", "Fūinjutsu"],
+    "historia": "Danzo Shimura fue un ninja de Konoha y líder de Raíz, una organización secreta dedicada a proteger los intereses de la aldea. Conocido por sus tácticas manipuladoras y su deseo de poder, Danzo es un personaje controvertido cuyas acciones tienen un impacto duradero en la historia de Konoha."
+  },
+  {
+    "id": 24,
+    "nombre": "Konan",
+    "avatar": "data:image/jpeg;base64,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",
+    "edad": 31,
+    "aldea": "Amegakure",
+    "clan": "Desconodido",
+    "estado": "Fallecida",
+    "habilidades": ["Origami Ninjutsu", "Paper Shuriken", "Paper Clone"],
+    "historia": "Konan era una ninja de Amegakure y uno de los miembros originales de Akatsuki. Conocida por su habilidad en el Ninjutsu de papel y su lealtad a su líder, Nagato, Konan deja un impacto duradero como una guerrera valiente y una protectora de su aldea."
+  },
+  {
+    "id": 25,
+    "nombre": "Pain",
+    "avatar": "https://i.pinimg.com/564x/ec/b9/22/ecb922d0832d5eedc71460d2f7c5aebc.jpg",
+    "edad": 28,
+    "aldea": "Amegakure",
+    "clan": "Uzumaki",
+    "estado": "Fallecido",
+    "habilidades": [
+      "Rinnegan",
+      "Chibaku Tensei",
+      "Shinra Tensei",
+      "Almighty Push",
+      "Deva Path"
+    ],
+    "historia": "Pain, también conocido como Nagato Uzumaki, fue el líder de Akatsuki y un antiguo alumno de Jiraiya. Conocido por su control sobre el Rinnegan y su búsqueda de la paz a través del dolor, Pain es un villano complejo cuyas acciones tienen un impacto profundo en el mundo ninja."
+  },
+  {
+    "id": 26,
+    "nombre": "Konohamaru Sarutobi",
+    "avatar": "https://i.pinimg.com/1200x/28/0d/f3/280df32aeda7a20fb59bcaf3f785519d.jpg",
+    "edad": 24,
+    "aldea": "Konoha",
+    "clan": "Sarutobi",
+    "estado": "Vivo",
+    "habilidades": ["Rasengan", "Katon", "Shadow Clone Technique"],
+    "historia": "Konohamaru Sarutobi es un ninja de Konoha y el nieto del Tercer Hokage, Hiruzen Sarutobi. Inspirado por su abuelo y su mentor, Naruto Uzumaki, Konohamaru se esfuerza por convertirse en un Hokage digno y proteger a su aldea con todas sus fuerzas."
+  },
+  {
+    "id": 27,
+    "nombre": "Yamato",
+    "avatar": "https://i.pinimg.com/736x/cd/ae/a0/cdaea06962a415e6b1a3cadfe62d2833.jpg",
+    "edad": 31,
+    "aldea": "Konoha",
+    "clan": "Desconocido",
+    "estado": "Vivo",
+    "habilidades": ["Mokuton", "Wood Release", "Chakra Suppression"],
+    "historia": "Yamato, también conocido como Tenzo, es un ninja de Konoha y uno de los experimentos de Orochimaru en la creación de clones de Mokuton. Conocido por su habilidad en el Mokuton y su papel como líder del Equipo Kakashi, Yamato es un aliado valioso en la lucha contra el mal."
+  },
+  {
+    "id": 28,
+    "nombre": "Kabuto Yakushi",
+    "avatar": "https://i.pinimg.com/236x/fa/62/84/fa6284eedc2449bf580048d805ebfa79.jpg",
+    "edad": 28,
+    "aldea": "Konoha/Sonido",
+    "clan": "Desconocido",
+    "estado": "Vivo",
+    "habilidades": ["Sennin Mode", "Medical Ninjutsu", "Snake Techniques"],
+    "historia": "Kabuto Yakushi es un ninja con una historia misteriosa y una lealtad cambiante. Conocido por su habilidad en el Ninjutsu médico y su conexión con Orochimaru, Kabuto juega un papel importante en varios eventos clave de la serie."
+  },
+  {
+    "id": 29,
+    "nombre": "Orochimaru",
+    "avatar": "https://i.pinimg.com/736x/67/c9/a9/67c9a9d5776eb68685ed0a3b924b8a84.jpg",
+    "edad": 999999,
+    "aldea": "Konoha",
+    "clan": "Serpiente Blanca",
+    "estado": "Vivo",
+    "habilidades": ["Senjutsu", "Medical Ninjutsu", "Snake Techniques"],
+    "historia": "Orochimaru es uno de los villanos más temidos y enigmáticos de la serie. Conocido por su búsqueda de la inmortalidad y su obsesión por el poder, Orochimaru es un enemigo formidable cuyas acciones tienen un impacto duradero en el mundo ninja."
+  },
+  {
+    "id": 30,
+    "nombre": "Killer Bee",
+    "avatar": "https://i.pinimg.com/736x/34/46/3a/34463aed6e7d400ec07d39d31fc7468a.jpg",
+    "edad": 35,
+    "aldea": "Kumogakure",
+    "clan": "Yotsuki",
+    "estado": "Vivo",
+    "habilidades": ["Octopus Hug", "Lariat", "Eight-Tails Chakra Mode"],
+    "historia": "Killer Bee es un ninja de Kumogakure y el Jinchuriki del Hachibi, Gyuki. Conocido por su habilidad en el Rap y su control sobre el chakra del Hachibi, Killer Bee es un aliado poderoso en la lucha contra el mal y un protector dedicado de su aldea."
+  }
+]

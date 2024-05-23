@@ -1,0 +1,58 @@
+{
+  "biju": [
+    {
+      "nombre": "Shukaku",
+      "descripcion": "El Shukaku es una bestia con cola sellada en Gaara, conocida por su afinidad con el Elemento Arena y su capacidad de manipularla para el combate.",
+      "ninja_portador": "Gaara",
+      "foto": "https://avatarurl.com/shukaku"
+    },
+    {
+      "nombre": "Matatabi",
+      "descripcion": "Matatabi es una bestia con cola sellada en Yugito Nii. Posee habilidades relacionadas con el fuego y es conocida por su ferocidad en combate.",
+      "ninja_portador": "Yugito Nii",
+      "foto": "https://avatarurl.com/matatabi"
+    },
+    {
+      "nombre": "Isobu",
+      "descripcion": "Isobu es una bestia con cola sellada en Yagura Karatachi. Es un experto en técnicas acuáticas y puede crear poderosas defensas de agua.",
+      "ninja_portador": "Yagura Karatachi",
+      "foto": "https://avatarurl.com/isobu"
+    },
+    {
+      "nombre": "Son Gokū",
+      "descripcion": "Son Gokū es una bestia con cola sellada en Roshi. Tiene habilidades relacionadas con el fuego y puede lanzar poderosas ráfagas de chakra.",
+      "ninja_portador": "Roshi",
+      "foto": "https://avatarurl.com/son_goku"
+    },
+    {
+      "nombre": "Kokuō",
+      "descripcion": "Kokuō es una bestia con cola sellada en Han. Tiene afinidad con el Elemento Lava y puede fundir cualquier cosa con su aliento caliente.",
+      "ninja_portador": "Han",
+      "foto": "https://avatarurl.com/kokuo"
+    },
+    {
+      "nombre": "Saiken",
+      "descripcion": "Saiken es una bestia con cola sellada en Utakata. Tiene habilidades relacionadas con el veneno y puede producir sustancias corrosivas.",
+      "ninja_portador": "Utakata",
+      "foto": "https://avatarurl.com/saiken"
+    },
+    {
+      "nombre": "Chōmei",
+      "descripcion": "Chōmei es una bestia con cola sellada en Fū. Tiene habilidades relacionadas con el viento y puede generar poderosas corrientes de aire.",
+      "ninja_portador": "Fū",
+      "foto": "https://avatarurl.com/chomei"
+    },
+    {
+      "nombre": "Gyūki",
+      "descripcion": "Gyūki es una bestia con cola sellada en Killer Bee. Tiene habilidades relacionadas con la electricidad y es conocido por su fuerza bruta.",
+      "ninja_portador": "Killer Bee",
+      "foto": "https://avatarurl.com/gyuki"
+    },
+    {
+      "nombre": "Kurama",
+      "descripcion": "Kurama, también conocido como el Kyūbi, es una bestia con cola sellada en Naruto Uzumaki. Es la más poderosa de todas las bestias y tiene habilidades relacionadas con el fuego y el chakra.",
+      "ninja_portador": "Naruto Uzumaki",
+      "foto": "https://avatarurl.com/kurama"
+    }
+  ]
+}
